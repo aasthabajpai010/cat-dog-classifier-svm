@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+svm_model.pkl
+dataset/
+
+.vscode/
